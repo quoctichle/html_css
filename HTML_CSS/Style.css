@@ -1,0 +1,10 @@
+#header-logo {
+    display: block;
+    width: 196px;
+    height: 36px;
+    background-color: brown;
+    text-indent: -9999px;
+    white-space: nowrap;
+    outline: none;
+    margin: 5px 5px 0 0;
+}
